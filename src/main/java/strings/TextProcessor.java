@@ -32,6 +32,4 @@ public class TextProcessor {
             System.out.println(word);
         }
     }
-
-
 }
